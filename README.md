@@ -170,4 +170,13 @@ Binance provides a testnet for development:
 
 ## License
 
-MIT
+MIT License - see [LICENSE](LICENSE)
+
+Copyright (c) 2026 [Node2Flow](https://node2flow.net)
+
+## Links
+
+- [npm Package](https://www.npmjs.com/package/@node2flow/binance-mcp)
+- [Binance API](https://developers.binance.com/docs/binance-spot-api-docs/rest-api)
+- [MCP Protocol](https://modelcontextprotocol.io/)
+- [Node2Flow](https://node2flow.net)

@@ -1,5 +1,6 @@
 # @node2flow/binance-mcp
 
+[![smithery badge](https://smithery.ai/badge/node2flow/binance)](https://smithery.ai/server/node2flow/binance)
 [![npm version](https://img.shields.io/npm/v/@node2flow/binance-mcp.svg)](https://www.npmjs.com/package/@node2flow/binance-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 

@@ -1,0 +1,9 @@
+services:
+  binance-mcp-community:
+    build: .
+    container_name: binance-mcp-community
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:3028:3000"
+    mem_limit: 512m
+    mem_reservation: 256m

@@ -1,0 +1,14 @@
+{
+  "type": "object",
+  "required": [],
+  "properties": {
+    "BINANCE_API_KEY": {
+      "type": "string",
+      "description": "Binance API key (optional for market data, required for trading)"
+    },
+    "BINANCE_SECRET_KEY": {
+      "type": "string",
+      "description": "Binance Secret key for HMAC SHA-256 signing (required for trading)"
+    }
+  }
+}
